@@ -9,7 +9,7 @@ DM me if you know of a way to send keystrokes to the client, without focusing th
 
 # Setup
 ```bash
-pip install -U git+https://github.com/h0nde/rockblox.git
+pip install -U git+https://github.com/manicopy/idkmanrepostbutnice.git
 ```
 
 # Usage
