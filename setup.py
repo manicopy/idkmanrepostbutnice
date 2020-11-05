@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="rockblox",
+name="rockblox",
     version="0.0.1",
     author="h0nda",
     author_email="1@1.com",
@@ -18,6 +18,6 @@ setuptools.setup(
     install_requires=[
        'pywin32',
        'pillow'
-    ]
+    ],
     python_requires='>=3.6',
 )
